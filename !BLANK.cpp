@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 #define ll long long
 
 void solve()
@@ -8,9 +7,10 @@ void solve()
 
 }
 
+
 int main()
 {
     // ll t; cin >> t;
-    // while(t--) solve();
+    // while(t--) solve();   
 
 }
